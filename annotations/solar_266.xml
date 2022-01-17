@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sol2</folder>
+	<filename>solar_266.JPG</filename>
+	<path>C:\temp\sol2\solar_266.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>901</width>
+		<height>791</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>solar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>408</ymin>
+			<xmax>852</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
